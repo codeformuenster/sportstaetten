@@ -1,6 +1,6 @@
 # Übersicht vorhandener Sportstätten in Münster
 
-Zurzeit gibt es keine Auflistung von Münsters Sportstätten, die eine schnellen Überblick über Ort, Qualität und weitere Details liefert. Dieses Projekt soll mit Hilfe einer Map und einfachen Filtern dazu beitragen, notwendige Informationen für den Bürger bereitzustellen.
+Zurzeit gibt es keine Auflistung von Münsters Sportstätten, die eine schnellen Überblick über Ort, Qualität und weitere Details liefert. Dieses Projekt soll mit Hilfe einer Map und einfachen Filtern dazu beitragen, notwendige Informationen für den Bürger auf einfache Art und Weise bereitzustellen.
 
 ## Contributing
 [![Stories in Ready](https://badge.waffle.io/codeformuenster/sportstaetten.png?label=ready&title=Ready)](https://waffle.io/codeformuenster/sportstaetten)
