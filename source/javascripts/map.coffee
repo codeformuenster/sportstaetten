@@ -11,6 +11,13 @@ $.getJSON '../data/sportstaetten.geojson', (json)->
     coords = feature.geometry.coordinates
     marker = L.marker(new L.LatLng(coords[1], coords[0]))
 
+    markerIcon = icon:
+      iconUrl: "images/#{feature.properties.Teilprodukt.toLowerCase()}.png"
+      iconAnchor: [25, 25]
+      popupAnchor: [0, -25]
+      className: "dot"
+    marker.setIcon(L.icon(markerIcon.icon))
+
     teilprodukt = "<h3 style='margin-bottom:0px;'>#{feature.properties.Teilprodukt}</h3>"
     object = "<p>#{feature.properties.Objekt}</p>"
     address = "<p><b>Anschrift</b></br>"
