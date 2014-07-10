@@ -941,7 +941,7 @@
             "type": "Feature",
             "properties": {
                 "Produkt": "Sportaußenanlagen an Schulen",
-                "Teilprodukt": "Gymnasien\/B.-Kollegs",
+                "Teilprodukt": "Gymnasien-Berufskollegs",
                 "Objekt": "Sportfläche Freiherr-vom-Stein-Gymnasium",
                 "Plz": "48161",
                 "Strname": "Dieckmannstraße",
@@ -1298,7 +1298,7 @@
             "type": "Feature",
             "properties": {
                 "Produkt": "Sportaußenanlagen an Schulen",
-                "Teilprodukt": "Gymnasien\/B.-Kollegs",
+                "Teilprodukt": "Gymnasien-Berufskollegs",
                 "Objekt": "Sportfläche Schiller-Gymnasium",
                 "Plz": "48149",
                 "Strname": "Gertrudenstraße",
@@ -1468,7 +1468,7 @@
             "type": "Feature",
             "properties": {
                 "Produkt": "Sportaußenanlagen an Schulen",
-                "Teilprodukt": "Haupt-\/Realschulen",
+                "Teilprodukt": "Haupt-Realschulen",
                 "Objekt": "Sportfläche Waldschule Kinderhaus",
                 "Plz": "48159",
                 "Strname": "Große Wiese",
@@ -1502,7 +1502,7 @@
             "type": "Feature",
             "properties": {
                 "Produkt": "Sportaußenanlagen an Schulen",
-                "Teilprodukt": "Gymnasien\/B.-Kollegs",
+                "Teilprodukt": "Gymnasien-Berufskollegs",
                 "Objekt": "Sportfläche Annette-von-Droste-Hülshoff-Gymnasium",
                 "Plz": "48143",
                 "Strname": "Grüne Gasse",
@@ -1570,7 +1570,7 @@
             "type": "Feature",
             "properties": {
                 "Produkt": "Sportaußenanlagen an Schulen",
-                "Teilprodukt": "Gymnasien\/B.-Kollegs",
+                "Teilprodukt": "Gymnasien-Berufskollegs",
                 "Objekt": "Sportfläche Ludwig-Erhard-Berufskolleg",
                 "Plz": "48151",
                 "Strname": "Gut Insel",
@@ -2114,7 +2114,7 @@
             "type": "Feature",
             "properties": {
                 "Produkt": "Sportaußenanlagen an Schulen",
-                "Teilprodukt": "Haupt-\/Realschulen",
+                "Teilprodukt": "Haupt-Realschulen",
                 "Objekt": "Sportfläche Paul-Gerhardt-Realschule",
                 "Plz": "48143",
                 "Strname": "Jüdefelderstraße",
@@ -2131,7 +2131,7 @@
             "type": "Feature",
             "properties": {
                 "Produkt": "Sportaußenanlagen an Schulen",
-                "Teilprodukt": "Haupt-\/Realschulen",
+                "Teilprodukt": "Haupt-Realschulen",
                 "Objekt": "Sportfläche Überwasserschule",
                 "Plz": "48143",
                 "Strname": "Jüdefelderstraße",
@@ -2335,7 +2335,7 @@
             "type": "Feature",
             "properties": {
                 "Produkt": "Sportaußenanlagen an Schulen",
-                "Teilprodukt": "Haupt-\/Realschulen",
+                "Teilprodukt": "Haupt-Realschulen",
                 "Objekt": "Sportfläche Fürstin-von-Gallitzin- ",
                 "Plz": "48145",
                 "Strname": "Manfred-von-Richthofen-Straße",
@@ -2726,7 +2726,7 @@
             "type": "Feature",
             "properties": {
                 "Produkt": "Sportaußenanlagen an Schulen",
-                "Teilprodukt": "Gymnasien\/B.-Kollegs",
+                "Teilprodukt": "Gymnasien-Berufskollegs",
                 "Objekt": "Sportfläche Hittorf-Gymnasium",
                 "Plz": "48151",
                 "Strname": "Prinz-Eugen-Straße",
@@ -2845,7 +2845,7 @@
             "type": "Feature",
             "properties": {
                 "Produkt": "Sportaußenanlagen an Schulen",
-                "Teilprodukt": "Haupt-\/Realschulen",
+                "Teilprodukt": "Haupt-Realschulen",
                 "Objekt": "Sportfläche Karl-Wagenfeld-Realschule",
                 "Plz": "48153",
                 "Strname": "Spichernstraße",
@@ -2998,7 +2998,7 @@
             "type": "Feature",
             "properties": {
                 "Produkt": "Bezirkssportanlage",
-                "Teilprodukt": "nicht überlassen",
+                "Teilprodukt": "nicht-überlassen",
                 "Objekt": "Sportzentrum Roxel",
                 "Plz": "48161",
                 "Strname": "Tilbecker Straße",
@@ -3117,7 +3117,7 @@
             "type": "Feature",
             "properties": {
                 "Produkt": "Sportaußenanlagen an Schulen",
-                "Teilprodukt": "Gymnasien\/B.-Kollegs",
+                "Teilprodukt": "Gymnasien-Berufskollegs",
                 "Objekt": "Sportfläche Pascal-Gymnasium",
                 "Plz": "48147",
                 "Strname": "Uppenkampstiege",
@@ -3219,7 +3219,7 @@
             "type": "Feature",
             "properties": {
                 "Produkt": "Sportaußenanlagen an Schulen",
-                "Teilprodukt": "Haupt-\/Realschulen",
+                "Teilprodukt": "Haupt-Realschulen",
                 "Objekt": "Sportfläche Wartburgschule",
                 "Plz": "48149",
                 "Strname": "Von-Esmarch-Straße",
