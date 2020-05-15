@@ -2,10 +2,10 @@
 # the following line to use "https"
 source 'http://rubygems.org'
 
-gem "middleman", "~>3.3.3"
+gem "middleman", "~> 4.1.11"
 
 # Live-reloading plugin
-gem "middleman-livereload", "~> 3.1.0"
+gem "middleman-livereload", "~> 3.1.1"
 
 # For faster file watcher updates on Windows:
 gem "wdm", "~> 0.1.0", :platforms => [:mswin, :mingw]
@@ -20,5 +20,5 @@ gem "haml"
 
 # Heroku
 ruby "2.1.0"
-gem "rack-contrib"
-gem "puma"
+gem "rack-contrib", ">= 1.1.0"
+gem "puma", ">= 2.12.0"
