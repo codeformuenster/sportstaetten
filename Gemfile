@@ -21,4 +21,4 @@ gem "haml"
 # Heroku
 ruby "2.1.0"
 gem "rack-contrib"
-gem "puma"
+gem "puma", ">= 4.3.11"
