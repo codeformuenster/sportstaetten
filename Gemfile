@@ -2,7 +2,7 @@
 # the following line to use "https"
 source 'http://rubygems.org'
 
-gem "middleman", "~>3.3.3"
+gem "middleman", "~> 4.6.0"
 
 # Live-reloading plugin
 gem "middleman-livereload", "~> 3.1.0"
@@ -21,4 +21,4 @@ gem "haml"
 # Heroku
 ruby "2.1.0"
 gem "rack-contrib"
-gem "puma"
+gem "puma", ">= 2.12.0"
